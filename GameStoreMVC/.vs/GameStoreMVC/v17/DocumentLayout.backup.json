@@ -34,8 +34,7 @@
               "RelativeToolTip": "GameStoreMVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T22:54:48.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T22:54:48.825Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "GameStoreMVC\\Models\\Game.cs",
               "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
               "RelativeToolTip": "GameStoreMVC\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T22:54:48.105Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "GameStoreMVC\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T22:54:45.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T22:54:45.469Z"
             }
           ]
         }

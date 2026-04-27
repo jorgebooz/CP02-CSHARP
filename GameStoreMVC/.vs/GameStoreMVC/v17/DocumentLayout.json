@@ -1,18 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\documents\\github\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\source\\repos\\cp02-csharp\\gamestoremvc\\gamestoremvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\source\\repos\\cp02-csharp\\gamestoremvc\\gamestoremvc\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\source\\repos\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\source\\repos\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\documents\\github\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\source\\repos\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\documents\\github\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +36,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T23:37:42.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\.gitattributes",
+              "RelativeDocumentMoniker": "..\\.gitattributes",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\.gitattributes",
+              "RelativeToolTip": "..\\.gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T23:32:27.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameStoreMVC\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:20:25.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GameStoreMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:20:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "GameStoreMVC\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "GameStoreMVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,24 +104,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GameStoreMVC\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
               "RelativeToolTip": "GameStoreMVC\\Models\\Game.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T22:54:48.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T22:54:48.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "GameStoreMVC\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "GameStoreMVC\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
