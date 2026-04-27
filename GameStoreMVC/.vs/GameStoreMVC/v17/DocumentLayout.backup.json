@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\acer\\desktop\\cp-05\\3esps\\gamestoremvc\\gamestoremvc\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\acer\\desktop\\cp-05\\3esps\\gamestoremvc\\gamestoremvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\acer\\desktop\\cp-05\\3esps\\gamestoremvc\\gamestoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\acer\\desktop\\cp-05\\3esps\\gamestoremvc\\gamestoremvc\\repositorio\\gamerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\repositorio\\gamerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\acer\\desktop\\cp-05\\3esps\\gamestoremvc\\gamestoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GameStoreMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:29:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "GameStoreMVC\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:38:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Repositorio\\GameRepositorio.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Repositorio\\GameRepositorio.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Repositorio\\GameRepositorio.cs",
+              "RelativeToolTip": "GameStoreMVC\\Repositorio\\GameRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:37:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Program.cs",
+              "RelativeToolTip": "GameStoreMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:35:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CP-05\\3ESPS\\GameStoreMVC\\GameStoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameStoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T16:35:20.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
