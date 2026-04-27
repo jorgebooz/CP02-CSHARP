@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\documents\\github\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\documents\\github\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\labsfiap\\documents\\github\\cp02-csharp\\gamestoremvc\\gamestoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353CF31B-45B8-484E-AD6F-BDA7C535F8DC}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GameStoreMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T22:54:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\Game.cs",
+              "RelativeToolTip": "GameStoreMVC\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T22:54:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CP02-CSHARP\\GameStoreMVC\\GameStoreMVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GameStoreMVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T22:54:45.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
