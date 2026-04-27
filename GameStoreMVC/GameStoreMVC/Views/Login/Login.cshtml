@@ -1,1 +1,38 @@
-﻿
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 75vh;">
+    <div class="card bg-dark text-white border-secondary shadow-lg" style="width: 100%; max-width: 420px;">
+        <div class="card-body p-4">
+            <h3 class="text-center fw-bold mb-4" style="color: #00ff88;">Entrar na Conta</h3>
+
+            @if (ViewBag.Erro != null)
+            {
+                <div class="alert alert-danger py-2">@ViewBag.Erro</div>
+            }
+            @if (TempData["Sucesso"] != null)
+            {
+                <div class="alert alert-success py-2">@TempData["Sucesso"]</div>
+            }
+
+            <form method="post" asp-action="Login">
+                <div class="mb-3">
+                    <label class="form-label">E-mail</label>
+                    <input type="email" name="email" class="form-control bg-dark border-secondary text-white" required />
+                </div>
+                <div class="mb-4">
+                    <label class="form-label">Senha</label>
+                    <input type="password" name="senha" class="form-control bg-dark border-secondary text-white" required />
+                </div>
+                <button type="submit" class="btn btn-success w-100 fw-bold">Entrar</button>
+            </form>
+
+            <hr class="border-secondary mt-4" />
+            <p class="text-center text-muted small mb-0">
+                Não tem conta?
+                <a asp-action="CriarConta" class="text-success fw-bold">Cadastre-se</a>
+            </p>
+        </div>
+    </div>
+</div>
